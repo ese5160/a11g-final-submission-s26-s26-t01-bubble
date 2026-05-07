@@ -6,7 +6,7 @@
 
 **GitHub Repository URL:** <https://github.com/ese5160/a11g-final-submission-s26-s26-t01-bubble>
 
-**GitHub Pages URL:** `https://ese5160.github.io/a11g-final-submission-s26-s26-t01-bubble/`
+**GitHub Pages URL:** `https://chennn0224.github.io/a11g-final-submission-s26-s26-t01-bubble/`
 
 | Team Member Name | Email Address | GitHub Handle |
 | --- | --- | --- |
@@ -15,7 +15,7 @@
 
 ## 1. Video Presentation
 
-Final YouTube video link: **TODO: paste the public YouTube URL here after uploading.**
+Final YouTube video link: <https://youtube.com/shorts/kgy-Gb3B5Gw?feature=share>
 
 The video should show:
 
@@ -164,7 +164,7 @@ Important note: Node-RED was used in earlier course work, but it is **not** the 
 ## Project Links
 
 - A11G submission repository: <https://github.com/ese5160/a11g-final-submission-s26-s26-t01-bubble>
-- GitHub Pages: `https://ese5160.github.io/a11g-final-submission-s26-s26-t01-bubble/`
+- GitHub Pages: `https://chennn0224.github.io/a11g-final-submission-s26-s26-t01-bubble/`
 - Final firmware code: <https://github.com/ese5160/final-project-firmware-s26-t01-bubble/tree/main/sl_si91x_i2c_driver_leader>
 - Node-RED/Azure review URL: **TODO if the course still requires it. Explain that it is supporting/legacy evidence, not the final control path.**
 - Altium 365 PCBA share link: **TODO paste final share link.**
