@@ -1,6 +1,6 @@
 # A11G Final Submission
 
-**Team Number:** 01
+**Team Number:** 1
 
 **Team Name:** Bubble
 
