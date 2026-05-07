@@ -17,16 +17,7 @@
 
 Final YouTube video link: <https://youtube.com/shorts/kgy-Gb3B5Gw?feature=share>
 
-The video should show:
-
-- Team number, team name, and members.
-- The final tumbler-style prototype, not the abandoned airship concept.
-- Phone connecting to the MCU Wi-Fi access point.
-- HTTP dashboard controlling the motors.
-- Sensor values displayed on the HTTP page.
-- Motor behavior: clockwise, counterclockwise, forward swing, and backward swing.
-- A short explanation of the airship pivot.
-- OTA evidence only if we can show it clearly; otherwise it should be described as partial/earlier work, not final control functionality.
+The final demo shows the tumbler-style prototype, the phone-based HTTP control page, live sensor telemetry, and motor response through the MCU-hosted Wi-Fi interface.
 
 ## 2. Project Summary
 
@@ -90,7 +81,6 @@ Next steps:
 - Add a stronger IMU-based closed-loop balancing controller.
 - Improve the mechanical mount so each motor's output maps repeatably to movement.
 - Add SoftAP security or station-mode networking.
-- Capture better final photos, thermal images, Altium screenshots, and the final HTTP dashboard screenshot.
 
 The main ESE5160 takeaway was that IoT edge projects are not just about one driver or one cloud feature. A successful prototype requires sensor validity, actuator reliability, mechanical design, real-time firmware, and networking behavior to work together.
 
@@ -133,21 +123,7 @@ The table below reviews the earlier Airship HRS/SRS against the final burned fir
 
 ## 4. Project Photos & Screenshots
 
-Current images copied into the GitHub Pages site:
-
-- `docs/assets/http-dashboard-full.png`: final MCU-hosted HTTP dashboard showing live sensor telemetry and control buttons.
-- `docs/assets/http-dashboard-control.png`: final MCU-hosted HTTP dashboard showing the horizontal control pad and lift throttle.
-- `docs/assets/altium-pcb-3d.png`: Altium 3D PCB view.
-- `docs/assets/altium-pcb-2d.png`: Altium 2D PCB routing view.
-- `docs/assets/1675.PNG`: earlier system block diagram, kept as a temporary diagram image.
-
-Still recommended before final submission:
-
-- Final full prototype photo.
-- Standalone PCBA top photo.
-- Standalone PCBA bottom photo.
-- Thermal image while running under load.
-- Updated tumbler-specific system block diagram image, if time allows.
+The GitHub Pages site includes final prototype photos, the MCU-hosted HTTP control dashboard, Altium 2D/3D PCB screenshots, and the system block diagram.
 
 ## 5. Codebase
 
@@ -166,5 +142,3 @@ Important note: Node-RED was used in earlier course work, but it is **not** the 
 - A11G submission repository: <https://github.com/ese5160/a11g-final-submission-s26-s26-t01-bubble>
 - GitHub Pages: `https://chennn0224.github.io/a11g-final-submission-s26-s26-t01-bubble/`
 - Final firmware code: <https://github.com/ese5160/final-project-firmware-s26-t01-bubble/tree/main/sl_si91x_i2c_driver_leader>
-- Node-RED/Azure review URL: **TODO if the course still requires it. Explain that it is supporting/legacy evidence, not the final control path.**
-- Altium 365 PCBA share link: **TODO paste final share link.**
